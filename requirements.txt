@@ -17,7 +17,7 @@ distro-info==0.17
 Django==1.11
 dominate==2.3.1
 Flask==1.0.2
-Flask-Admin==1.5.1
+Flask-Admin==1.5.3
 Flask-BasicAuth==0.2.0
 Flask-Bootstrap==3.3.7.1
 Flask-Bootstrap4==4.0.2
