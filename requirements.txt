@@ -61,7 +61,7 @@ pycups==1.9.73
 pyfiglet==0.7.5
 pygobject==3.24.1
 PyJWT==1.4.2
-pylint==1.9.1
+pylint==2.8.2
 pyperclip==1.6.0
 python-apt==1.4.0b3
 python-dateutil==2.7.3
