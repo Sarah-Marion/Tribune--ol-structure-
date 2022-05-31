@@ -60,7 +60,7 @@ pycparser==2.18
 pycups==1.9.73
 pyfiglet==0.7.5
 pygobject==3.24.1
-PyJWT==1.4.2
+PyJWT==2.4.0
 pylint==2.9.6
 pyperclip==1.6.0
 python-apt==1.4.0b3
